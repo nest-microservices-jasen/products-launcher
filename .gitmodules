@@ -1,0 +1,3 @@
+[submodule "payments-ms"]
+	path = payments-ms
+	url = https://github.com/nest-microservices-jasen/payments-microservices.git
